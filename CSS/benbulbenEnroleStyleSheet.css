@@ -1,0 +1,73 @@
+
+#divnav {
+    list-style-type: none;
+    color: azure;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+  }
+  #divnav a{
+    color: azure;
+    padding: 10px;
+  }
+  
+  /* Change the link color on hover */
+  #divnav :hover {
+    background-color: rgb(255, 0, 0);
+    color: azure;
+    border: red;
+    border-radius: 2px;
+  }
+  .PayImg{
+    height: 10px;
+    width: 10px;
+
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    text-align: left;
+    border-radius: 10px;
+}
+
+table th {
+    background-color: rgb(255, 0, 0);
+    color: #fff;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 30px;
+
+}
+
+table td {
+    border: 3px solid rgb(0, 0, 0);
+    padding: 30px;
+    background-color: #f2f2f2;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: red;
+    color: azure;
+    border: 3px rgb(0, 0, 0) solid;
+    margin: 0% 20%;
+    border-radius: 10px;
+    text-align: center;
+  }
+
+  #floatR{
+    float: right;
+  }
+
+  #my-table{
+    float:left
+  }
+  footer{
+    font-size: 31px;
+    color: red;
+    background-color: #f2f2f2;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 10px;
+  }
